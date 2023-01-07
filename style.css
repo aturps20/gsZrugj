@@ -1,0 +1,17 @@
+#developer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    box-shadow: 0 6px 8px 0 black;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+
+
+
